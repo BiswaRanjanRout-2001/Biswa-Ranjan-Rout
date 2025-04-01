@@ -1,4 +1,6 @@
-# 👋 I'm Biswa Ranjan Rout
+# 👋 I'm
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&width=435&lines=Biswa+Ranjan+Rout)
+
 🚀 Passionate Full-Stack Developer | Aspiring Ethical Hacker | Tech Enthusiast
 
 ## 🌟 About Me:
@@ -34,5 +36,6 @@
 ## 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge)](https://yourportfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://x.com/aayuu_24)
 
 🚀 Let's connect and build something amazing!
