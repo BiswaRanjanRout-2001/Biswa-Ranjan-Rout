@@ -1,4 +1,4 @@
-# 👋 I'm
+# 👋 Hello, I'm
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&width=435&lines=Biswa+Ranjan+Rout)
 
 🚀 Passionate Full-Stack Developer | Aspiring Ethical Hacker | Tech Enthusiast
